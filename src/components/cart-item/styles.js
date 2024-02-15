@@ -4,10 +4,7 @@ export const CartItemContainer = styled.div`
   display: flex;
   align-items: center;
   margin-bottom: 15px;
-
-  p {
-    color: #222222;
-  }
+  color: #222222;
 `;
 
 export const CartItemImage = styled.div`
